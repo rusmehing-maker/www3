@@ -1,13 +1,8 @@
 {
-  "name": "Modern Empire - Architectural Visualization",
-  "description": "A high-end architectural visualization portfolio featuring 3D hero sections, elegant empire-style design, and professional workflow displays.",
+  "name": "Empire Vizualization",
+  "description": "High-end architectural visualization and luxury digital estate curation.",
   "requestFramePermissions": [
     "camera",
     "microphone"
-  ],
-  "majorCapabilities": [
-    "3D Rendering",
-    "Animation",
-    "Luxury UI"
   ]
 }
